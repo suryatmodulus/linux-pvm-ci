@@ -1,0 +1,6 @@
+[linux-pvm-ci]
+name=Linux PVM Repository
+baseurl=https://loopholelabs.github.io/linux-pvm-ci//rocky/ovh
+enabled=1
+gpgcheck=1
+gpgkey=https://loopholelabs.github.io/linux-pvm-ci//rocky/ovh/repodata/repo.asc
